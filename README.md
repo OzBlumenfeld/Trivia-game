@@ -1,7 +1,7 @@
 # Trivia-game
 Trivia game, fetching questions from trivia-api using Python OOP, OOD want to try it yourself? :)
 
-Few points I want to support in the future:\n
+Few points I want to support in the future:
   *For now the game supports only single player mode but I would support in the future playing online using mobile app (sounds fun !).
   *Hopefully game login will be supported as well so I can track over player progress and scores in game.
 
